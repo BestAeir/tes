@@ -1,2 +1,5 @@
-[preload  storage="./data/bgimage/room.jpg"  ]
+[preload  storage="./data/bgimage/rouka.jpg"  ]
+[preload  storage="./data/bgimage/gerbang_jauh.jpg"  ]
+[preload  storage="./data/bgimage/Screenshot_2025-12-17_225716.jpg"  ]
+[preload  storage="./data/bgimage/mendekati_heroine.jpg"  ]
 [return] 

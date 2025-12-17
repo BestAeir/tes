@@ -4,7 +4,9 @@
 ;Melvin
 [chara_new  name="Melvin"  jname="Melvin"  storage="chara/2/WhatsApp_Image_2025-12-15_at_18.18.52.png"  ]
 ;Arka
-[chara_new  name="Arka"  jname="Arka"  storage="chara/3/WhatsApp_Image_2025-12-15_at_18.17.49.png"  ]
+[chara_new  name="Arka"  jname="Arka"  storage="chara/3/Screenshot_2025-12-17_223456.jpg"  ]
+;Heroinemisterius
+[chara_new  name="Heroinemisterius"  jname="Heroinemisterius"  storage="chara/4/Screenshot_2025-12-17_223456.png"  ]
 
 ;=========変数宣言部分 
 [iscript] 

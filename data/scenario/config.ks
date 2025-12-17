@@ -26,7 +26,7 @@ tf.text_skip ="OFF";
 [layopt layer=1 visible=true]
 
 [cm  ]
-[bg  storage="bg_config.jpg"  time="100"  ]
+[bg  storage="room.jpg"  time="100"  ]
 [button  graphic="config/c_btn_back.png"  enterimg="config/c_btn_back2.png"  target="*backtitle"  x="840"  y="20"  storage=""  ]
 [jump  target="*config_page"  storage=""  ]
 *config_page
